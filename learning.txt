@@ -1,5 +1,5 @@
-What I have learnt from this course;
+What I have learned from this course
 
-I have learnt to create new repos, README file, how to merge new branches, how to pull and push requests
-I have also learnt to fork new repos and ask for a pull request from the owner
-I have learnt to check if i am in a diiferent branch
+I have learned to create new repos, README file, how to merge new branches, how to pull and push requests
+I have also learned to fork new repos and ask for a pull request from the owner
+I have learned to check if i am in a diiferent branch

@@ -1,3 +1,0 @@
-I have learnt about creating new repositories and adding a README file to explain the contents of the repository.
-I have created new branches and merged them to the main branch with new information
-I have forked repos and added new informmation and pulled request for review from the owner
